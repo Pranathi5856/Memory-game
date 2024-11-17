@@ -1,1 +1,2 @@
 # Memory-game
+The Memory Game is a fun and interactive browser-based game where players test their memory by matching pairs of cards. The objective is to match all pairs of cards with the fewest moves or in the shortest time, depending on the game mode selected. The game features two modes: Timer Mode, where players race against the clock, and Move Limit Mode, where players have a limited number of moves to complete the game.
